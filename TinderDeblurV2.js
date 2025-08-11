@@ -5,7 +5,7 @@
 // @grant       none
 // @version     2.0
 // @author      BytePhoenix
-// @downloadURL https://raw.githubusercontent.com/BytePhoenixCoding/TinderDeblurV2/main/TinderDeblurV2.js
+// @downloadURL https://raw.githubusercontent.com/BytePhoenixCoding/TinderDeblurV2/refs/heads/main/TinderDeblurV2.js
 // @description A script using the official Tinder API to get unblurred photos of the users who liked you
 // ==/UserScript==
 
